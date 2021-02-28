@@ -1,0 +1,21 @@
+{
+  "name": "wiki-api",
+  "version": "1.0.0",
+  "description": "rest  api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "samuel s ampofo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
